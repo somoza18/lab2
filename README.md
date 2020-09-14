@@ -1,2 +1,2 @@
-# lab2
+# Lab2
 lab2 CSE110
